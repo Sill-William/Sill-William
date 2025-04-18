@@ -1,4 +1,3 @@
-### Hi there 👋 
 <div align="center">
   <!-- ![HeadImg](https://img.picui.cn/free/2025/04/17/68011dcca258e.jpg "magic_the_gandhi") -->
   <!-- ### SILL WILLIAM -->
@@ -15,7 +14,8 @@
     <tr>
       <td valign="top" width="100%">
         ### <a href="https://sill-william.github.io/" target="_blank">Recent Blog</a>
-        <!-- START_SECTION:blog --><!-- END_SECTION:blog --> 
+        <!-- START_SECTION:blog -->
+        <!-- END_SECTION:blog --> 
       </td>
     </tr>
   </tbody>
