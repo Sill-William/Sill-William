@@ -24,23 +24,17 @@
             - name: Social Readme 
             uses: zylele/social-readme@master 
             with: 
-              blog_rss_link: https://achuan-2.top/atom.xml 
+              blog_rss_link: http://sill-william.github.io/feeds/all.rss.xml
               blog_limit: 10 
-              douban_name: sjx270992395 
-              douban_limit: 10
   -->
-  <!-- 
   <table>
     <tbody>
       <tr>
-        <td valign="top" width="50%"> ### <a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+        <td valign="top" width="100%"> ### <a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           <!-- START_SECTION:blog --> <!-- END_SECTION:blog --> </td>
-        <td valign="top" width="50%"> ### <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
-          <!-- START_SECTION:douban --> <!-- END_SECTION:douban --> </td>
       </tr>
     </tbody>
   </table>
-  -->
 </div>
 <!---
 Sill-William/Sill-William is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
