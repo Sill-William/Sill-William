@@ -2,10 +2,11 @@
 # ./.github/workflows/update-events.yml
 name: Update events 
 on: 
-  watch: 
-    types: started 
-    schedule: 
-    - cron: '0 0 * * *' 
+  schedule: 
+  - cron: '0 0 * * *' 
+  push:
+    branches:
+    - main
 jobs: 
   update-social: 
     runs-on: ubuntu-latest 
