@@ -13,7 +13,7 @@ jobs:
     steps: 
     - name: Social Readme 
       uses: zylele/social-readme@master 
-      gh_token: ${{ secrets.GH_SECRET }}
       with: 
+        gh_token: ${{ secrets.GH_SECRET }}
         blog_rss_link: http://sill-william.github.io/feeds/all.rss.xml
         blog_limit: 10 
