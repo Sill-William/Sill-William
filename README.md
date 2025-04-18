@@ -30,8 +30,11 @@
   <table>
     <tbody>
       <tr>
-        <td valign="top" width="100%"> ### <a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
-          <!-- START_SECTION:blog --> <!-- END_SECTION:blog --> </td>
+        <td valign="top" width="100%">
+          <a href="https://sill-william.github.io/" target="_blank">Recent Blog</a>
+          <!-- START_SECTION:blog --> 
+          <!-- END_SECTION:blog --> 
+        </td>
       </tr>
     </tbody>
   </table>
