@@ -35,6 +35,10 @@
           <!-- START_SECTION:blog --> 
           <!-- END_SECTION:blog --> 
         </td>
+        <td width="0">
+          <!-- START_SECTION:douban --> 
+          <!-- END_SECTION:douban --> 
+        </td>
       </tr>
     </tbody>
   </table>
