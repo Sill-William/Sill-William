@@ -1,6 +1,13 @@
-![HeadImg](https://img.picui.cn/free/2025/04/17/68011dcca258e.jpg "magic_the_gandhi")
-### SILL WILLIAM
-
+<div align="center">
+  ![HeadImg](https://img.picui.cn/free/2025/04/17/68011dcca258e.jpg "magic_the_gandhi")
+  ### SILL WILLIAM
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sill-William&layout=compact&langs_count=8" />
+</div>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sill-William&theme=minimal" />
+</div>
 <!---
 Sill-William/Sill-William is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
