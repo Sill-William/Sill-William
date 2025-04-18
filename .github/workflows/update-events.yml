@@ -1,0 +1,17 @@
+# Using Git Action to update social links in profile automatically 
+# ./.github/workflows/update-events.yml
+name: Update events 
+on: 
+  watch: 
+    types: started 
+    schedule: 
+    - cron: '0 0 * * *' 
+jobs: 
+  update-social: 
+    runs-on: ubuntu-latest 
+    steps: 
+    - name: Social Readme 
+      uses: zylele/social-readme@master 
+      with: 
+        blog_rss_link: http://sill-william.github.io/feeds/all.rss.xml
+        blog_limit: 10 
