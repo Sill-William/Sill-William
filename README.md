@@ -1,6 +1,8 @@
 <div align="center">
-  ![HeadImg](https://img.picui.cn/free/2025/04/17/68011dcca258e.jpg "magic_the_gandhi")
-  ### SILL WILLIAM
+  <!-- ![HeadImg](https://img.picui.cn/free/2025/04/17/68011dcca258e.jpg "magic_the_gandhi") -->
+  <!-- ### SILL WILLIAM -->
+  <img src="https://img.picui.cn/free/2025/04/17/68011dcca258e.jpg" alt="magic_the_gandhi" />
+  <h3>SILL WILLIAM</h3>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sill-William&layout=compact&langs_count=8" />
