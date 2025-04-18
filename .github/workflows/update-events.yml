@@ -16,3 +16,5 @@ jobs:
       with: 
         blog_rss_link: http://sill-william.github.io/feeds/all.rss.xml
         blog_limit: 10 
+        douban_name: sjx270992395
+        douban_limit: 10
