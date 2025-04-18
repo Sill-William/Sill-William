@@ -8,7 +8,39 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sill-William&layout=compact&langs_count=8" />
 </div>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sill-William&theme=minimal" />
+  <!--
+    # Using Git Action to update social links in profile automatically 
+    # ./.github/workflows/update-events.yml
+    name: Update events 
+    on: 
+      watch: 
+        types: started 
+        schedule: 
+        - cron: '0 0 * * *' 
+        jobs: 
+          update-social: 
+            runs-on: ubuntu-latest 
+            steps: 
+            - name: Social Readme 
+            uses: zylele/social-readme@master 
+            with: 
+              blog_rss_link: https://achuan-2.top/atom.xml 
+              blog_limit: 10 
+              douban_name: sjx270992395 
+              douban_limit: 10
+  -->
+  <!-- 
+  <table>
+    <tbody>
+      <tr>
+        <td valign="top" width="50%"> ### <a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+          <!-- START_SECTION:blog --> <!-- END_SECTION:blog --> </td>
+        <td valign="top" width="50%"> ### <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
+          <!-- START_SECTION:douban --> <!-- END_SECTION:douban --> </td>
+      </tr>
+    </tbody>
+  </table>
+  -->
 </div>
 <!---
 Sill-William/Sill-William is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
